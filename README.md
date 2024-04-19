@@ -57,7 +57,8 @@
     <li>Android разработка на Android Studio Java
       <ul>
         <li><a href="https://github.com/SemenTeplov/TicToe.git">Игра крестики нолики</a></li>
-        <li><a href="https://github.com/SemenTeplov/TicToe.git">Игра крестики нолики</a></li>
+        <li><a href="https://github.com/SemenTeplov/CRUD-Android.git">CRUD</a></li>
+        <li><a href="https://github.com/SemenTeplov/CRUD-Android.git">CRUD</a></li>
       </ul>
     </li>
     <li>Игровая разработка на Unity C#</li>
