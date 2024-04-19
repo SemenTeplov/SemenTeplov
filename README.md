@@ -16,6 +16,7 @@
     </li>
     <li>Сетевое и системное программирование
       <ul>
+        <li><a href="https://github.com/SemenTeplov/NetProgram_WorkWithDB.git">Работа с базой данных</a></li>
         <li><a href="https://github.com/SemenTeplov/NetProgram_WpfTeamViewer_v2.git">Team Viewer</a></li>
       </ul>
     </li>
