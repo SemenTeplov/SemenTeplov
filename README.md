@@ -54,7 +54,12 @@
         <li><a href="https://github.com/SemenTeplov/CRUD-Spring.git">CRUD Spring</a></li>
       </ul>
     </li>
-    <li>Android разработка на Android Studio Java</li>
+    <li>Android разработка на Android Studio Java
+      <ul>
+        <li><a href="https://github.com/SemenTeplov/TicToe.git">Игра крестики нолики</a></li>
+        <li><a href="https://github.com/SemenTeplov/TicToe.git">Игра крестики нолики</a></li>
+      </ul>
+    </li>
     <li>Игровая разработка на Unity C#</li>
   </ul>
 </div>
