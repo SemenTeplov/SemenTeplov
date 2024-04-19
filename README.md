@@ -14,7 +14,11 @@
         <li><a href="https://github.com/SemenTeplov/WPF_Puzzle.git">Игра Puzzle</a></li>
       </ul>
     </li>
-    <li>Сетевое и системное программирование</li>
+    <li>Сетевое и системное программирование
+      <ul>
+        <li><a href="https://github.com/SemenTeplov/NetProgram_WpfTeamViewer_v2.git">Team Viewer</a></li>
+      </ul>
+    </li>
     <li>Веб разработка на ASP NET</li>
     <li>Веб разработка на HTML, CSS, JavaScript и jQuery</li>
     <li>Веб разработка серверной части на PHP</li>
