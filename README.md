@@ -27,7 +27,12 @@
         <li><a href="https://github.com/SemenTeplov/ASP_OnlineShop.git">Онлайн магазин</a></li>
       </ul>
     </li>
-    <li>Веб разработка на HTML, CSS, JavaScript и jQuery</li>
+    <li>Веб разработка на HTML, CSS, JavaScript и jQuery
+      <ul>
+        <li><a href="https://github.com/SemenTeplov/Frontend_SiteDesign.git">Дизайн сайта</a></li>
+        <li><a href="https://github.com/SemenTeplov/Frontend_SiteDesign.git">Дизайн сайта</a></li>
+      </ul>
+    </li>
     <li>Веб разработка серверной части на PHP</li>
     <li>Базы данных MySQL</li>
     <li>Веб разработка на Anqular и React</li>
