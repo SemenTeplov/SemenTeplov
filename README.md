@@ -49,7 +49,11 @@
         <li><a href="https://github.com/SemenTeplov/ProjectAPI.git">Использование API</a></li>
       </ul>
     </li>
-    <li>Веб разработка на Spring Java</li>
+    <li>Веб разработка на Spring Java
+      <ul>
+        <li><a href="https://github.com/SemenTeplov/CRUD-Spring.git">CRUD Spring</a></li>
+      </ul>
+    </li>
     <li>Android разработка на Android Studio Java</li>
     <li>Игровая разработка на Unity C#</li>
   </ul>
