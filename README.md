@@ -59,7 +59,7 @@
         <li><a href="https://github.com/SemenTeplov/TicToe.git">Игра крестики нолики</a></li>
         <li><a href="https://github.com/SemenTeplov/CRUD-Android.git">CRUD</a></li>
         <li><a href="https://github.com/SemenTeplov/PapaJohns.git">PapaJohns</a></li>
-        <li><a href="https://github.com/SemenTeplov/PapaJohns.git">PapaJohns</a></li>
+        <li><a href="https://github.com/SemenTeplov/API-Android.git">API</a></li>
       </ul>
     </li>
     <li>Игровая разработка на Unity C#</li>
