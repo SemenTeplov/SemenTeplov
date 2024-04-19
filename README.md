@@ -34,7 +34,7 @@
         <li><a href="https://github.com/SemenTeplov/Frontend_TMDB.git">Кинопоиск</a></li>
         <li><a href="https://github.com/SemenTeplov/JS_floating-squares.git">Плавающие квадраты</a></li>
         <li><a href="https://github.com/SemenTeplov/JS_CRUD.git">CRUD</a></li>
-        <li><a href="https://github.com/SemenTeplov/JS_CRUD.git">CRUD</a></li>
+        <li><a href="https://github.com/SemenTeplov/JS_Weather.git">Погода</a></li>
       </ul>
     </li>
     <li>Веб разработка серверной части на PHP</li>
