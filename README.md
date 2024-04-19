@@ -43,7 +43,12 @@
       </ul>
     </li>
     <li>Базы данных MySQL</li>
-    <li>Веб разработка на Anqular и React</li>
+    <li>Веб разработка на Anqular и React
+      <ul>
+        <li><a href="https://github.com/SemenTeplov/millioner.git">Игра Миллионер</a></li>
+        <li><a href="https://github.com/SemenTeplov/millioner.git">Игра Миллионер</a></li>
+      </ul>
+    </li>
     <li>Веб разработка на Spring Java</li>
     <li>Android разработка на Android Studio Java</li>
     <li>Игровая разработка на Unity C#</li>
