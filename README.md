@@ -31,7 +31,8 @@
       <ul>
         <li><a href="https://github.com/SemenTeplov/Frontend_SiteDesign.git">Дизайн сайта</a></li>
         <li><a href="https://github.com/SemenTeplov/Frontend_SiteBootstrap.git">Bootstrap</a></li>
-        <li><a href="https://github.com/SemenTeplov/Frontend_SiteBootstrap.git">Bootstrap</a></li>
+        <li><a href="https://github.com/SemenTeplov/Frontend_TMDB.git">Кинопоиск</a></li>
+        <li><a href="https://github.com/SemenTeplov/Frontend_TMDB.git">Кинопоиск</a></li>
       </ul>
     </li>
     <li>Веб разработка серверной части на PHP</li>
