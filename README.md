@@ -46,7 +46,7 @@
     <li>Веб разработка на Anqular и React
       <ul>
         <li><a href="https://github.com/SemenTeplov/millioner.git">Игра Миллионер</a></li>
-        <li><a href="https://github.com/SemenTeplov/millioner.git">Игра Миллионер</a></li>
+        <li><a href="https://github.com/SemenTeplov/ProjectAPI.git">Использование API</a></li>
       </ul>
     </li>
     <li>Веб разработка на Spring Java</li>
