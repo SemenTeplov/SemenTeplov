@@ -7,7 +7,7 @@
     <li>Объектно ориентированное программирование на C++</li>
     <li>UML</li>
     <li>Паттерны проектирования</li>
-    <li>Оконные приложения (Forms и WPF) на C#</li>
+    <li>Оконные приложения (Forms и WPF) на C#, примеры: <a href="https://github.com/SemenTeplov/WPF_Puzzle.git">Игра Puzzle</a></li>
     <li>Сетевое и системное программирование</li>
     <li>Веб разработка на ASP NET</li>
     <li>Веб разработка на HTML, CSS, JavaScript и jQuery</li>
