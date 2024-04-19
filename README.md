@@ -23,6 +23,7 @@
     </li>
     <li>Веб разработка на ASP NET
       <ul>
+        <li><a href="https://github.com/SemenTeplov/Restaurant.git">Ресторан</a></li>
         <li><a href="https://github.com/SemenTeplov/ASP_OnlineShop.git">Онлайн магазин</a></li>
       </ul>
     </li>
