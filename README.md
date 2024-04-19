@@ -9,6 +9,7 @@
     <li>Паттерны проектирования</li>
     <li>Оконные приложения (Forms и WPF) на C#
       <ul>
+        <li><a href="https://github.com/SemenTeplov/Forms_NotePad.git">NotePad</a></li>
         <li><a href="https://github.com/SemenTeplov/WPF_CRUD.git">CRUD</a></li>
         <li><a href="https://github.com/SemenTeplov/WPF_Puzzle.git">Игра Puzzle</a></li>
       </ul>
