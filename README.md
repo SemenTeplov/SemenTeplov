@@ -37,7 +37,11 @@
         <li><a href="https://github.com/SemenTeplov/JS_Weather.git">Погода</a></li>
       </ul>
     </li>
-    <li>Веб разработка серверной части на PHP</li>
+    <li>Веб разработка серверной части на PHP
+      <ul>
+        <li><a href="https://github.com/SemenTeplov/ToDo.git">To Do</a></li>
+      </ul>
+    </li>
     <li>Базы данных MySQL</li>
     <li>Веб разработка на Anqular и React</li>
     <li>Веб разработка на Spring Java</li>
